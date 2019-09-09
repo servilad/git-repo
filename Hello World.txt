@@ -1,4 +1,7 @@
-Print (Hello)!;
+Print (Hello);
 print (Hi, people);
-print (hello, frind)
-print (hi gerl) 
+print (hello, frind);
+print (hi gerl);
+Print (Hello);
+print (Hi, people);
+
