@@ -1,3 +1,4 @@
 Print (Hello)!;
 print (Hi, people);
 print (hello, frind)
+print (hi gerl) 
