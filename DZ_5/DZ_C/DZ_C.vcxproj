@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DZ_5_1.cpp" />
+    <ClCompile Include="DZ_5_1.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DZ_5_1.h" />
