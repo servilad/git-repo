@@ -13,7 +13,6 @@ int main() {
 	int formula;
 	scanf_s("%d", &formula);
 
-
 	//Uo = Ui * (R2 / (R1 + R2));
 	//Ui = Uo * ((R1 + R2) / R2);
 	//R1 = ((Ui * R2) / Uo) - R2;
